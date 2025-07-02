@@ -11,8 +11,9 @@
 
 ---
 
-✨ *"Code is like humor. When you have to explain it, it’s bad."*  
-🎯 *Turning ideas into interactive, beautiful websites is what I love most!*
+✨ *"Design is not just what it looks like and feels like. Design is how it works."*  
+🎯 *Bringing ideas to life through clean, responsive, and user-friendly web interfaces is my passion!*
+
 
 ---
 
