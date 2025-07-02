@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivani+Suryawanshi;A+Frontend+Developer+from+India;Love+clean+UI%2FUX+%F0%9F%92%BB;Open+to+collaborate+on+tech+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivani+Suryawanshi;A+Frontend+Developer+from+India;Love+clean+UI%2FUX+%F0%9F%92%BB;Open+to+collaborate+on+tech+projects" alt="Typing SVG" />
 </p>
 
 <h3 align="center">💻 A Passionate Frontend Developer from India</h3>
