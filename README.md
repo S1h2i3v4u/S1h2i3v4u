@@ -63,10 +63,11 @@
 
 ### 📌 Featured Projects
 
-- 💡 Hospital Management System using PHP & MySQL  
-- 🎮 Number Guessing Game using JavaScript  
-- 📱 Responsive Portfolio Website  
-- 🗃️ Data Management System using Java & JDBC  
+- 💡 A Hospital Management System built with PHP & MySQL  
+- 🎮 A Match Me Game developed using JavaScript  
+- 📱 A Fully Responsive Portfolio Website  
+- ☕ Simple Java Projects like Calculator and ATM Interface  
+
 
 ---
 
